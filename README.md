@@ -17,7 +17,7 @@ Dart
 $ git clone https://github.com/yadhavaprasanna/movieapp-intern
 
 # Go into the repository
-$ cd TMDB-movie-app
+$ cd movieapp-intern
 
 # Install dependencies
 $ flutter pub get
@@ -28,7 +28,7 @@ $ flutter run
 
 
 ## Packages
-Below are the information about package used in this project.
+Below are the information about package used in this project:
 tmdb_api: ^2.0.0
 ## Screenshots
 
