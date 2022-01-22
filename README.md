@@ -32,12 +32,12 @@ Below are the information about package used in this project.
 tmdb_api: ^2.0.0
 ## Screenshots
 
-[App Screenshots](https://ibb.co/0s2yPP3)||
-[App Screenshots](https://ibb.co/12Twgby)||
-[App Screenshots](https://ibb.co/p0S5QQJ)||
-[App Screenshots](https://ibb.co/J7XWJkk)||
-[App Screenshots](https://ibb.co/y8KCvv3)||
-[App Screenshots](https://ibb.co/CB8CqvT)||
-[App Screenshots](https://ibb.co/txy1yj9)||
-[App Screenshots](https://ibb.co/Pw1tJ5W)
+![App Screenshots](https://ibb.co/0s2yPP3)||
+![App Screenshots](https://ibb.co/12Twgby)||
+![App Screenshots](https://ibb.co/p0S5QQJ)||
+![App Screenshots](https://ibb.co/J7XWJkk)||
+![App Screenshots](https://ibb.co/y8KCvv3)||
+![App Screenshots](https://ibb.co/CB8CqvT)||
+![App Screenshots](https://ibb.co/txy1yj9)||
+![App Screenshots](https://ibb.co/Pw1tJ5W)
 
